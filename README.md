@@ -1,2 +1,4 @@
 # ThisaraSandaruAbeysinghe
 Personal certifications and achievements
+
+[AWS Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/a8d92ab1-cfd8-4e73-bff4-8fed53c76bf2)
